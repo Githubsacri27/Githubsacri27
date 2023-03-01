@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋,Soy Rubén Sacristán</h1>
 <h3 align="center">Soy un estudiante de desarrollo web</h3>
 
-- 🔭 Estoy trabajando en **otro sector diferente, pero sigo aprendiendo para poder dedicarme pronto al desarrollo web**
+- 🔭 He trabajado en **otro sector diferente, pero sigo aprendiendo y mejorando para poder dedicarme pronto al desarrollo web**
 
 - 💬 Escríbeme a **rsacri27@hotmail.com**
 
