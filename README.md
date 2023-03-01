@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rubén-sacristán-mor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rubén sacristán mor" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rub%C3%A9n-sacrist%C3%A1n-mor-838b0122b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rubén sacristán mor" height="30" width="40" /></a>
 <a href="https://instagram.com/sacri27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sacri27" height="30" width="40" /></a>
 </p>
 
