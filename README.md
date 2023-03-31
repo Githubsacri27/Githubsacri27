@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋,Soy Rubén Sacristán</h1>
 <h3 align="center">Soy un estudiante de desarrollo web</h3>
 
-- 🔭 Soy un apasionado estudiante de programación**enfocado en crecer en el mundo del desarrollo de software, me considero un entusiasta del aprendizaje y siempre estoy buscando nuevos desafíos que me permitan expandir mi conocimiento y mejorar mis habilidades.
+- 🔭 Soy un apasionado estudiante de programación enfocado en crecer en el mundo del desarrollo de software, me considero un entusiasta del aprendizaje y siempre estoy buscando nuevos desafíos que me permitan expandir mi conocimiento y mejorar mis habilidades.
 - 💬 Escríbeme a **rsacri27@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
