@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋,Soy Rubén Sacristán</h1>
 <h3 align="center">Soy un estudiante de desarrollo web</h3>
 
-- 🔭 Soy estudiante, finalizando grado superior de DAW, una beca para Backend con PHP, y desarrollo mis propios proyectos personales que comparto con la comunidad en GitHub. 
+- 🔭 Estoy finalizando el grado superior de DAW, también una beca para Backend con PHP, y desarrollo mis propios proyectos personales que comparto con la comunidad en GitHub. 
 - 💬 Escríbeme a **rsacri27@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
