@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋,Soy Rubén Sacristán</h1>
 <h3 align="center">Soy un estudiante de desarrollo web</h3>
 
-- 🔭 Actualmente estoy finalizando el grado superior de DAW, y una beca para Frontend con JavaScript y React.También estoy trabajando en mis propios proyectos Frontend y Backend, que me encanta compartir con la comunidad de GitHub. Siempre estoy dispuesto a aprender cosas nuevas. Mi tiempo libre, lo disfruto practicando deporte, salir con mi familia y mantenerme al día con mis creadores favoritos de Twitch y Youtube.
+- 🔭 Actualmente estoy finalizando el grado superior de DAW, y una beca para un curso de Frontend con JavaScript y React. También estoy trabajando en mis propios proyectos Frontend y Backend, que me encanta compartir con la comunidad de GitHub. Siempre estoy dispuesto a aprender cosas nuevas. Mi tiempo libre, lo disfruto practicando deporte, salir con mi familia y mantenerme al día con mis creadores favoritos de Twitch y Youtube.
 - 💬 Escríbeme a **rsacri27@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
