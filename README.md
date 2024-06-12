@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋,Soy Rubén Sacristán</h1>
 <h3 align="center">Soy un estudiante de desarrollo web</h3>
 
-- 🔭 Actualmente me encuentro en la etapa de prácticas y desarrollo del proyecto final del grado superior de Desarrollo de Aplicaciones Web (DAW). Además, estoy dedicando tiempo al desarrollo de mis propios proyectos tanto en el ámbito Frontend como Backend, los cuales comparto con la comunidad de GitHub. Mi disposición para aprender y explorar nuevas tecnologías es constante. En mi tiempo libre, disfruto practicando deporte, compartiendo momentos con mi familia y manteniéndome al día con contenido de mis creadores favoritos en Twitch y Youtube.
+- 🔭 Soy un desarrollador web resolutivo y dinámico, residente en la región del Penedés, cerca de Barcelona. Me especializo en el desarrollo de productos digitales centrados en el usuario. Desde 2021, he acumulado experiencia en diversas tecnologías y completé un Grado Superior en Desarrollo de Aplicaciones Web. Me adapto fácilmente a cualquier ámbito laboral y estoy en constante aprendizaje y evolución.
 - 💬 Escríbeme a **rsacri27@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
