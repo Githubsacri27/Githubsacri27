@@ -1,7 +1,17 @@
 <h1 align="center">Hola 👋,Soy Rubén Sacristán</h1>
 <h3 align="center">Soy un estudiante de desarrollo web</h3>
 
-- 🔭 Soy un desarrollador web resolutivo y dinámico, residente en la región del Penedés, cerca de Barcelona. Me especializo en el desarrollo de productos digitales centrados en el usuario. Desde 2021, he acumulado experiencia en diversas tecnologías y completé un Grado Superior en Desarrollo de Aplicaciones Web. Me adapto fácilmente a cualquier ámbito laboral y estoy en constante aprendizaje y evolución.
+- 🔭 Soy un desarrollador web resolutivo y dinámico. Desde 2021, he acumulado experiencia en diversas tecnologías a través de formación profesional y cursos especializados. En diciembre de 2023, conseguí mi primer empleo antes de finalizar mis estudios, donde contribuí con éxito en un proyecto de e-commerce. En junio de 2024, al finalizar mis estudios de Grado Superior en Aplicaciones Web, obtuve la máxima puntuación y reconocimiento en mi proyecto de fin de ciclo Green Car Rent.
+
+🌟 Lo que me distingue:
+
+- Me gusta trabajar en equipo
+- Me adelanto a los acontecimientos y me adapto con facilidad a diferentes situaciones.
+- Me motivan los desafíos, dar un paso adelante, destacar y afrontar cualquier problema sin decir "no puedo".
+- Tengo buena comunicación y trato al cliente
+- Mi punto fuerte es mi capacidad de adaptación a cualquier ámbito laboral. He trabajado en diferentes sectores y desempeñado diversas funciones de manera resolutiva.
+
+  
 - 💬 Escríbeme a **rsacri27@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
