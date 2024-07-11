@@ -1,5 +1,4 @@
 <h1 align="center">Hola 👋,Soy Rubén Sacristán</h1>
-<h3 align="center">Soy un estudiante de desarrollo web</h3>
 
 🔭 Soy un desarrollador web resolutivo y dinámico. Desde 2021, he acumulado experiencia en diversas tecnologías a través de formación profesional y cursos especializados. En diciembre de 2023, conseguí mi primer empleo antes de finalizar mis estudios, donde contribuí con éxito en un proyecto de e-commerce. En junio de 2024, al finalizar mis estudios de Grado Superior en Aplicaciones Web, obtuve la máxima puntuación y reconocimiento en mi proyecto de fin de ciclo Green Car Rent.
 
