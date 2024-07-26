@@ -1,14 +1,14 @@
 <h1 align="center">Hola 👋,Soy Rubén Sacristán</h1>
 
-🔭 Soy un desarrollador web resolutivo y dinámico. Desde 2021, he acumulado experiencia en diversas tecnologías a través de formación profesional y cursos especializados. En diciembre de 2023, conseguí mi primer empleo antes de finalizar mis estudios, donde contribuí con éxito en un proyecto de e-commerce. En junio de 2024, al finalizar mis estudios de Grado Superior en Aplicaciones Web, obtuve la máxima puntuación y reconocimiento en mi proyecto de fin de ciclo Green Car Rent.
+🔭 Graduado en Desarrollo de Aplicaciones Web, especializado en tecnologías JavaScript, Angular, PHP y Laravel, con experiencia en desarrollo backend. 
 
-🌟 Lo que me distingue:
+Desde 2021, he acumulado experiencia a través de formación profesional y proyectos prácticos, los cuales puedes ver en mi repositorio https://github.com/Githubsacri27 
 
-- Me gusta trabajar en equipo
-- Me adelanto a los acontecimientos y me adapto con facilidad a diferentes situaciones.
-- Me motivan los desafíos, dar un paso adelante, destacar y afrontar cualquier problema sin decir "no puedo".
-- Tengo buena comunicación y trato al cliente
-- Mi punto fuerte es mi capacidad de adaptación a cualquier ámbito laboral. He trabajado en diferentes sectores y desempeñado diversas funciones de manera resolutiva.
+En diciembre de 2023, conseguí mi primer empleo antes de finalizar mis estudios, contribuyendo con éxito en un proyecto de e-commerce.
+
+En junio de 2024, finalicé mis estudios con la máxima puntuación en el proyecto de fin de ciclo 'Green Car Rent', cuya presentación está disponible en Instituto FOC https://www.foc.es/proyectos/
+
+Mi objetivo es ser polivalente tanto en frontend como en backend, y actualmente estoy perfeccionando Angular en mi tiempo libre.
 
   
 💬 Escríbeme a **rsacri27@hotmail.com**
