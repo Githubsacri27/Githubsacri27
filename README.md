@@ -2,7 +2,7 @@
 
 🔭 Graduado en Desarrollo de Aplicaciones Web, especializado en tecnologías JavaScript, Angular, PHP y Laravel, con experiencia en desarrollo backend. 
 
-Desde 2021, he acumulado experiencia a través de formación profesional y proyectos prácticos, los cuales puedes ver en mi repositorio (algunos proyecto son privados por lo que deberás ponerte en contacto conmigo).
+Desde 2021, he acumulado experiencia a través de formación profesional y proyectos prácticos, los cuales puedes ver en mi repositorio (algunos proyectos son privados por lo que deberás ponerte en contacto conmigo).
 
 En diciembre de 2023, conseguí mi primer empleo antes de finalizar mis estudios, contribuyendo con éxito en un proyecto de e-commerce.
 
