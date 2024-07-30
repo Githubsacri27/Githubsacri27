@@ -2,15 +2,8 @@
 
 🔭 Graduado en Desarrollo de Aplicaciones Web, especializado en tecnologías JavaScript, Angular, PHP y Laravel, con experiencia en desarrollo backend. 
 
-Desde 2021, he acumulado experiencia a través de formación profesional y proyectos prácticos, los cuales puedes ver en mi repositorio (algunos proyectos son privados por lo que deberás ponerte en contacto conmigo).
-
-En diciembre de 2023, conseguí mi primer empleo antes de finalizar mis estudios, contribuyendo con éxito en un proyecto de e-commerce.
-
-En junio de 2024, finalicé mis estudios con la máxima puntuación en el proyecto de fin de ciclo 'Green Car Rent', cuya presentación está disponible en Instituto FOC https://www.foc.es/proyectos/ 
-
 Mi objetivo es ser polivalente tanto en frontend como en backend, y actualmente estoy perfeccionando Angular en mi tiempo libre.
 
-  
 💬 Escríbeme a **rsacri27@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
